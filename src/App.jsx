@@ -2,8 +2,8 @@ import { Route, Routes } from "react-router-dom"
 import Userlogin from "./user/Userlogin"
 import Home from "./user/Home"
 import Usersignup from "./user/Usersignup"
-import Adminlogin from "./admin/adminLogin"
-import Admindashboard from "./admin/admindashboard"
+import Adminlogin from "./admin/Adminlogin"
+import Admindashboard from "./admin/Admindashboard"
 
 function App() {
 
